@@ -1,0 +1,52 @@
+html,
+body{
+	margin: 1px;
+	background-color: green;
+
+
+}
+ul li{
+	display: inline;
+	list-style: none;
+	padding: 5px;
+
+}
+div ul{
+	text-align: center;
+}
+
+ul li a {
+	text-decoration: none;
+
+}
+
+.Courses{
+	width: 50%;
+	float: left;
+	
+}
+.CSS{
+	width: 50%;
+	float: right;
+	
+}
+.black{
+	background-color: black;
+}
+.photo{
+	display: block;
+	width: 100%;
+	height: auto;
+
+}
+.color{
+	background-color: white;
+}
+.address{	
+	background-color: black;
+	color: white;
+}
+#course{
+	list-style: none;
+	text-align: left;
+}
